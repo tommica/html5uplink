@@ -1,0 +1,36 @@
+{
+  "name": "html5uplink",
+  "version": "0.0.1",
+  "description": "inspired by uplink",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommica/html5uplink.git"
+  },
+  "keywords": [
+    "html5",
+    "uplink"
+  ],
+  "author": "tommi carleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommica/html5uplink/issues"
+  },
+  "homepage": "https://github.com/tommica/html5uplink",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-clean": "~0.2.4",
+    "gulp-watch": "~0.5.3",
+    "gulp-autoprefixer": "0.0.6",
+    "gulp-qunit": "~0.3.2",
+    "gulp-less": "~1.2.3",
+    "gulp-imagemin": "~0.1.5",
+    "gulp-browserify": "~0.5.0",
+    "gulp-connect": "~1.1.0"
+  }
+}
